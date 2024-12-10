@@ -1,7 +1,8 @@
 # 🚀 Elastic SIEM Project: Threat Detection in Action! 🛡️
 This video is a clip from my most recent Home Lab, where I configure a SIEM and test out the rules and alerts via nmap on Kali Linux
 
-Author: Josh Lindsey
+Project Completed by: Josh Lindsey
+Blog Written by: Josh Lindsey
  ### [See it in Action (Video)](https://youtu.be/LpZ0KIMPMbU)
 
 <h2>📝 Project Overview</h2>
@@ -62,7 +63,9 @@ Here’s where things got interesting. I designed a custom alert rule to detect 
 <h3>Creating the Rule: When Triggered, it's Supposed to Send an Email</h3>
 <p align="center">
 <a href="https://imgur.com/y1rzYGL"><img src="https://i.imgur.com/y1rzYGL.png" title="source: imgur.com" /></a>
+  <b>3️⃣ Entering Custom Query to Help System Determine What Logs will Trigger the Alert</b>
 <a href="https://imgur.com/a75Pst5"><img src="https://i.imgur.com/a75Pst5.png" title="source: imgur.com" /></a>
+ <b>4️⃣ Selecting Email as a Rule Option:</b>
 <a href="https://imgur.com/ZwDfTYO"><img src="https://i.imgur.com/ZwDfTYO.png" title="source: imgur.com" /></a></p>
 
 <h3>Troubleshooting the Alert Rule:</h3>
